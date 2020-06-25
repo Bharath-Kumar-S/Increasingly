@@ -1,4 +1,4 @@
-# Increasingly
+# JS features
 
 ## promises / Async & Await
 
